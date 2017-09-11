@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="c3-0.4.17/c3.css" rel="stylesheet">
+        <!-- Load d3.js and c3.js -->
+    <script src="c3-0.4.17/c3.min.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+  </head>
+  <body>
+
+    <div id="chart"></div>
+    <script>
+
+
+      var chart = c3.generate({
+          data: {
+              columns: [
+                  ['A',983, 755, 887],
+                  ['B',538, 476, 503],
+                  ['C',681, 568, 632],
+                  ['D',723, 634, 698],
+                  ['E',665, 661, 658],
+                  ['F',762, 602, 641],
+                  ['G',947, 823, 845],
+                  ['H',731, 629, 693],
+                  ['I',848, 727, 742]
+              ],
+              types: {
+                  A: 'area-spline',
+                  B: 'area-spline',
+                  C: 'area-spline',
+                  D: 'area-spline',
+                  E: 'area-spline',
+                  F: 'area-spline',
+                  G: 'area-spline',
+                  H: 'area-spline',
+                  I: 'area-spline'
+                  // 'line', 'spline', 'step', 'area', 'area-step' are also available to stack
+              },
+              // groups: [['A', 'AA']]
+          },
+              axis: {
+                x: {
+                    type: 'category',
+                    categories: ['Pre-Flight', 'Post-Flight (4 Days)', 'Post-Flight (19 Days)']
+                },
+                y: {
+                  label: 'Muscle Volume (cm^3)'
+                }
+              },
+              tooltip: {
+                format: {
+
+                  title: function (x) { return 'Astronaut Subjects'; }
+
+                }
+              }
+      });
+      // chart.hide(['A', 'B', 'C']);
+
+
+
+    // d3.csv('https://emmclean.github.io/d3Testing/data.csv', function(error, data) {
+
+
+
+    </script>
+  </body>
+</html>
