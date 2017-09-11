@@ -1,28 +1,4 @@
-Subject,Muscle,date,values
-A,Gastocnemius (medial + lateral head),0,379
-B,Gastocnemius (medial + lateral head),0,229
-C,Gastocnemius (medial + lateral head),0,237
-D,Gastocnemius (medial + lateral head),0,289
-E,Gastocnemius (medial + lateral head),0,247
-F,Gastocnemius (medial + lateral head),0,322
-G,Gastocnemius (medial + lateral head),0,430
-H,Gastocnemius (medial + lateral head),0,288
-I,Gastocnemius (medial + lateral head),0,359
-A,Gastocnemius (medial + lateral head),4,299
-B,Gastocnemius (medial + lateral head),4,204
-C,Gastocnemius (medial + lateral head),4,208
-D,Gastocnemius (medial + lateral head),4,272
-E,Gastocnemius (medial + lateral head),4,255
-F,Gastocnemius (medial + lateral head),4,264
-G,Gastocnemius (medial + lateral head),4,381
-H,Gastocnemius (medial + lateral head),4,269
-I,Gastocnemius (medial + lateral head),4,318
-A,Gastocnemius (medial + lateral head),19,370
-B,Gastocnemius (medial + lateral head),19,209
-C,Gastocnemius (medial + lateral head),19,231
-D,Gastocnemius (medial + lateral head),19,295
-E,Gastocnemius (medial + lateral head),19,254
-F,Gastocnemius (medial + lateral head),19,272
-G,Gastocnemius (medial + lateral head),19,388
-H,Gastocnemius (medial + lateral head),19,286
-I,Gastocnemius (medial + lateral head),19,317
+date,A,B,C,D,E,F,G,H,I
+0,379,229,237,289,247,322,430,288,359
+4,299,204,208,272,255,264,381,269,318
+19,370,209,231,295,254,272,388,286,317
