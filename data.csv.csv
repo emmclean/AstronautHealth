@@ -1,0 +1,32 @@
+Subject,Muscle,Pre,"Post
+R+4","Post
+R+19","% Δ
+(Pre to R+4) ","% Δ
+(Pre to R+19) "
+A,Gastocnemius (medial + lateral head),379,299,370,-11,-2
+A,Soleus,604,456,517,-22,-8
+A,Gastrocnemius + soleus,983,755,887,-21,-6
+B,Gastocnemius (medial + lateral head),229,204,209,-21,-9
+B,Soleus,309,272,294,-12,-5
+B,Gastrocnemius + soleus,538,476,503,-12,-7
+C,Gastocnemius (medial + lateral head),237,208,231,-12,-3
+C,Soleus,444,360,392,-19,-12
+C,Gastrocnemius + soleus,681,568,632,-17,-9
+D,Gastocnemius (medial + lateral head),289,272,295,-6,2
+D,Soleus,434,362,403,-17,-7
+D,Gastrocnemius + soleus,723,634,698,-12,-3
+E,Gastocnemius (medial + lateral head),247,255,254,-3,3
+E,Soleus,418,406,404,-3,-3
+E,Gastrocnemius + soleus,665,661,658,-1,-1
+F,Gastocnemius (medial + lateral head),322,264,272,-18,-16
+F,Soleus,440,338,369,-23,-16
+F,Gastrocnemius + soleus,762,602,641,-21,-16
+G,Gastocnemius (medial + lateral head),430,381,388,-11,-10
+G,Soleus,517,442,457,-15,-12
+G,Gastrocnemius + soleus,947,823,845,-13,-11
+H,Gastocnemius (medial + lateral head),288,269,286,-7,-1
+H,Soleus,443,400,407,-10,-8
+H,Gastrocnemius + soleus,731,629,693,-8,-5
+I,Gastocnemius (medial + lateral head),359,318,317,-11,-12
+I,Soleus,489,409,425,-16,-13
+I,Gastrocnemius + soleus,848,727,742,-14,-13
